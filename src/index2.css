@@ -1,0 +1,24 @@
+.react-icon {
+    color: #0cd9ff;
+    font-size: 24px;
+  }
+  
+  .react-icon:hover {
+    color: white;
+  }
+  .redux-icon {
+    color: purple;
+    font-size: 24px;
+  }
+  
+  .redux-icon:hover {
+    color: white;
+  }
+  .js-icon {
+    color: #f7e025;
+    font-size: 24px;
+  }
+  
+  .js-icon:hover {
+    color: white;
+  }
